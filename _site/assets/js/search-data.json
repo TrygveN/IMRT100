@@ -1,0 +1,100 @@
+{"0": {
+    "doc": "3d scanning med mobilen",
+    "title": "3d scanning med mobilen",
+    "content": ". Dere skal bruke appen Polycam til å lage en 3d modell av noe dere velger selv. Det er lurt å scanne noe som også ble scanna med Faro’n så dere kan sammenligne resultatet! . | Scan noe med Polycam og eksporter 3d fila til pcen. Se bruksanvisning | Ta en titt på modellen og svar på følgende spørsmål: a. Hva tror dere dette kan brukes til? b. Gi et anslag på nøyaktigheten på målingene, hvorfor tror dere noen deler av modellen blir feil? c. Sammenlign Resultatet med Faro scannen. (kostnad, tid, nøyaktighet etc.) | . ",
+    "url": "/oppgaver/3d_scan_mobil.html",
+    
+    "relUrl": "/oppgaver/3d_scan_mobil.html"
+  },"1": {
+    "doc": "3d scanning med Faro",
+    "title": "3d Scanning med profesjonell 3d scanner",
+    "content": ". ",
+    "url": "/oppgaver/3d_scan_prof.html#3d-scanning-med-profesjonell-3d-scanner",
+    
+    "relUrl": "/oppgaver/3d_scan_prof.html#3d-scanning-med-profesjonell-3d-scanner"
+  },"2": {
+    "doc": "3d scanning med Faro",
+    "title": "3d scanning med Faro",
+    "content": " ",
+    "url": "/oppgaver/3d_scan_prof.html",
+    
+    "relUrl": "/oppgaver/3d_scan_prof.html"
+  },"3": {
+    "doc": "Bruksanvisning GNSS",
+    "title": "Hvordan logge GNSS posisjon med mobilen",
+    "content": " ",
+    "url": "/bruksanvisninger/gnss_mobil.html#hvordan-logge-gnss-posisjon-med-mobilen",
+    
+    "relUrl": "/bruksanvisninger/gnss_mobil.html#hvordan-logge-gnss-posisjon-med-mobilen"
+  },"4": {
+    "doc": "Bruksanvisning GNSS",
+    "title": "Bruksanvisning GNSS",
+    "content": " ",
+    "url": "/bruksanvisninger/gnss_mobil.html",
+    
+    "relUrl": "/bruksanvisninger/gnss_mobil.html"
+  },"5": {
+    "doc": "Oppgaver",
+    "title": "Oppgaver",
+    "content": " ",
+    "url": "/oppgaver/",
+    
+    "relUrl": "/oppgaver/"
+  },"6": {
+    "doc": "Bruksanvisninger",
+    "title": "Bruksanvisninger",
+    "content": " ",
+    "url": "/bruksanvisninger/",
+    
+    "relUrl": "/bruksanvisninger/"
+  },"7": {
+    "doc": "IMRT100",
+    "title": "Velkommen til IMRT100",
+    "content": "Målet i dette faget er å bli kjent med geomatikk og få prøvd noen målemetoder i praksis og bli kjent med noen programmer som dere kommer til å bruke mye senere. Dere skal jobbe i grupper med ca. 3 til 4 personer. Sluttprodukter er en rapport som leveres på canvas. Den skal inneholde svar på oppgavene lenger nede. Stort sett går oppgavene ut på å teste ut en målemetode og reflektere over hva den egner seg til, fordeler/ulemper osv. I tillegg dere skal også lage en film basert på hva dere gjør i kurset, det er derfor lurt å filme mye og ta mange bilder av det dere gjør! . ",
+    "url": "/#velkommen-til-imrt100",
+    
+    "relUrl": "/#velkommen-til-imrt100"
+  },"8": {
+    "doc": "IMRT100",
+    "title": "Oppgaver:",
+    "content": ". | Bruke GNSS til å måle et punkt | Bruke GNSS til å tegne inn en vei i gis | Gjøre en 3d scan med Faro 3d scanner | Gjøre en 3d scan med mobilen | Bruke RTK til å måle punkt | . ",
+    "url": "/#oppgaver",
+    
+    "relUrl": "/#oppgaver"
+  },"9": {
+    "doc": "IMRT100",
+    "title": "IMRT100",
+    "content": ". ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"10": {
+    "doc": "Bruksanvisning polycam",
+    "title": "Hvordan bruke polycam og Blender",
+    "content": "Polycam er en app som lager 3d modeller av bilder du tar med mobilen. Den er desverre ikke fri programvare, men det finnes mer tekniske, frie programmer som kan gjøre det samme på pc. Polycam kan lastes ned til android og iphone . Første gang du åpner appen blir du spurt om å lage en bruker. etter du har registrert deg får du opp denne skjermen: . Nå er det bare å trykke på den hvit knappen så tar den automatisk bilder når du beveger deg rundt motivet. Når du er ferdig trykker du på knappen som heter “Done”: . Da år du opp en skjerm som ser slik ut: . “Detail” styrer hvor stor fila blir, medium er som regel nok. “Object Masking” prøver å klippe vekk bakgrunn fra modellen så du kun sitter igjen med motivet. I første omgang er et lurt å skru den av. Trykk “Upload &amp; process” og vent på at den gjør seg ferdig. Når modellen er klar kan trykke inn og se hvordan den ble . For å kunne se nøye på modellen er det lurt å åpne den i Blender på pcen. For å eksportere modellen trykker man på nedlastingsikonet of velger GLTF. Deretter må du på en eller annem måte overføre den til pcen. På pcen må du ha Blender installert. Windows og Mac versjoner finnes på https://www.blender.org/, mens Linux versjonen hentes fra Flathub. Blender brukes til å lage både dataspill og hollywood filmer, men for oss funker det også fint til å titte på 3d modeller. Først sletter vi standardkuben ved å høyreklikke og velge delete . Så importerer modellen vår ved å trykke på File-&gt;Import-&gt;glTF . Deretter navigerer du til mappa med .glb fila fra Polycam og dobbeltrykker på den: . Nå kan du rotere deg rundt, zoome inn og inspisere modellen. For å fargelegge modellen må du velge shading oppe til høyre: . Blender kan være litt knotete både med og uten datamus, men det finnes mye info i manualen: https://docs.blender.org/manual/en/latest/editors/3dview/navigate/navigation.html . Det går også an å skru på spaseringsnavigasjon: https://docs.blender.org/manual/en/latest/editors/3dview/navigate/walk_fly.html . ",
+    "url": "/bruksanvisninger/polycam.html#hvordan-bruke-polycam-og-blender",
+    
+    "relUrl": "/bruksanvisninger/polycam.html#hvordan-bruke-polycam-og-blender"
+  },"11": {
+    "doc": "Bruksanvisning polycam",
+    "title": "Bruksanvisning polycam",
+    "content": " ",
+    "url": "/bruksanvisninger/polycam.html",
+    
+    "relUrl": "/bruksanvisninger/polycam.html"
+  },"12": {
+    "doc": "Statisk GNSS måling",
+    "title": "Statisk GNSS måling med mobilen",
+    "content": "I denne oppgaven skal dere prøve å finne koordinatene til et punkt så nøyaktig som mulig, kun med mobilen. Dere skal måle punktet SSIR som har disse koordinatene i UTM 32: . |   | X | Y | H | . | SSIR | 6615572.623 | 600117.216 | 97.162 | . | Legg mobilen oppå SSIR og logg GNSS possisjonen i 5 minutt. Se: hvordan logge posisjon med mobilen | Bruk et dataprogramm til å finne gjennomsnittet av målingene | . ",
+    "url": "/oppgaver/statisk_gnss.html#statisk-gnss-m%C3%A5ling-med-mobilen",
+    
+    "relUrl": "/oppgaver/statisk_gnss.html#statisk-gnss-måling-med-mobilen"
+  },"13": {
+    "doc": "Statisk GNSS måling",
+    "title": "Statisk GNSS måling",
+    "content": " ",
+    "url": "/oppgaver/statisk_gnss.html",
+    
+    "relUrl": "/oppgaver/statisk_gnss.html"
+  }
+}
