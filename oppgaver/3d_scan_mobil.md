@@ -1,5 +1,7 @@
 ---
 title: 3d scanning med mobilen
+parent: Oppgaver
+nav_order: 2
 ---
 # 3d scanning med mobilen
 

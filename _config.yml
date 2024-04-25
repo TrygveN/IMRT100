@@ -1,0 +1,5 @@
+title: IMRT100
+description: Innføringsemne i geomatikk
+theme: just-the-docs
+plugins:
+  - jekyll-default-layout
